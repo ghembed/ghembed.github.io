@@ -29,7 +29,7 @@ function embed() {
 .file-meta {
   padding: 0.75rem;
   border-radius: 0 0 0.3rem 0.3rem;
-  font: 0.8rem -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+  font: 0.7rem -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
   sans-serif, Apple Color Emoji, Segoe UI Emoji;
 }
 
