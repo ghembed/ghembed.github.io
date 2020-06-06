@@ -1,4 +1,6 @@
 # Embed GitHub Code
 
-code.mig.xyz
+Live: https://code.mig.xyz
+
+Original project: https://github.com/yusanshi/embed-like-gist
 
