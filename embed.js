@@ -34,13 +34,13 @@ function embed() {
 }
 
 .file-meta-light {
-  color: #586069;
+  color: #121212;
   background-color: #f7f7f7;
 }
 
 .file-meta-dark {
   color: #f7f7f7;
-  background-color: #586069;
+  background-color: #2B2B2B;
 }
 
 .file-meta a {
@@ -50,11 +50,11 @@ function embed() {
 }
 
 .file-meta-light a {
-  color: #666;
+  color: #72b1db;
 }
 
 .file-meta-dark a {
-  color: #fff;
+  color: #72b1db;
 }
 
 /* hide content for small device */
