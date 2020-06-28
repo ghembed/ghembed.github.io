@@ -156,7 +156,7 @@ function embedCodeToTarget(targetDiv, codeText, showBorder, showLineNumbers, sho
     const fileURLSplit = fileURL.split("/");
     meta.innerHTML = `<a target="_blank" href="${rawFileURL}" style="float:right">view raw</a>
 <a target="_blank" href="${fileURL}">${fileURLSplit[fileURLSplit.length - 1]}</a>
-delivered <span class="hide-in-phone">by </span><a target="_blank" href="https://code.mighil.com">mighil.com</a>`;
+delivered by<span class="hide-in-phone"></span><a target="_blank" href="https://code.mighil.com">mighil.com</a>`;
     meta.classList.add("file-meta");
     if (!isDarkStyle) {
       meta.classList.add("file-meta-light");
