@@ -1,6 +1,5 @@
 # Embed GitHub Code
 
-Live: https://code.mighil.com
-
+Live: https://gist.m1q.net
 Original project: https://github.com/yusanshi/embed-like-gist
 
